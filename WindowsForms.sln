@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Apps\Calculat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resistor", "Resistor\Resistor.csproj", "{BCFDB45A-3541-4A5E-8B0A-EC8036D2E738}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBox", "ListBox\ListBox.csproj", "{BBFCAA12-0A2F-4703-8DA8-627FEDBC0287}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,12 @@ Global
 		{BCFDB45A-3541-4A5E-8B0A-EC8036D2E738}.DebugLocal|Any CPU.Build.0 = Debug|Any CPU
 		{BCFDB45A-3541-4A5E-8B0A-EC8036D2E738}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCFDB45A-3541-4A5E-8B0A-EC8036D2E738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBFCAA12-0A2F-4703-8DA8-627FEDBC0287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFCAA12-0A2F-4703-8DA8-627FEDBC0287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFCAA12-0A2F-4703-8DA8-627FEDBC0287}.DebugLocal|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFCAA12-0A2F-4703-8DA8-627FEDBC0287}.DebugLocal|Any CPU.Build.0 = Debug|Any CPU
+		{BBFCAA12-0A2F-4703-8DA8-627FEDBC0287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFCAA12-0A2F-4703-8DA8-627FEDBC0287}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
