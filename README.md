@@ -10,3 +10,10 @@ You have one minute to answer as many questions as possible. During the game on 
 Remember to choose your game level before starting
 
 Keep calm and may the FORCE be with you
+
+## Team Members
+- Mentor Marcin Woś
+- Product Owner Joanna Zioła 
+- Tech Leader Marcin Pawęzka
+- Development Manager Lila Religa
+- Patrycja Kowalczyk
